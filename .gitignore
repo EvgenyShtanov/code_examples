@@ -1,0 +1,9 @@
+build-*
+*.user
+.project
+.cproject
+*.o
+*.so
+*.dll
+*.lib
+
